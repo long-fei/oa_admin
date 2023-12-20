@@ -31,6 +31,7 @@ public final class MD5 {
         }
     }
 
+    // 测试
     public static void main(String[] args) {
         System.out.println(MD5.encrypt("123456"));
     }
